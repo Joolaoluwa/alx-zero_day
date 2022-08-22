@@ -1,2 +1,1 @@
-I used the cat command ( syntax: cat >> filename)
-and insert anything i need to insert in my file
+Use cat >> filename to update your files
